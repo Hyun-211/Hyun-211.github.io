@@ -5,11 +5,12 @@
 ## ファイル構成
 
 ```
-index.html          ホーム（自己紹介・News）
+index.html          ホーム（About・Research・News・Contact）
 cv.html             CV（学歴・研究歴・受賞など）
 publications.html   論文リスト（ナビ表示は "Papers"）
 talks.html          講演・発表リスト
 assets/style.css    デザイン
+assets/photo.jpg    顔写真（任意。この名前で置くと About に表示）
 ```
 
 ## 公開手順（約10分）
